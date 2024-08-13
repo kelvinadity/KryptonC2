@@ -197,7 +197,7 @@ admin_commands = f"""
 botnetMethods = f"""{Methods_L3}{Methods_L4}{Methods_AMP}{Methods_L7}{GameMethods}"""
 
 bots = {}
-user_name = ""
+user_name = "root"
 ansi_clear = '\033[2J\033[H'
 
 
