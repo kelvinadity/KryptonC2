@@ -310,7 +310,7 @@ def handle_client(client, address):
         break
 
     # Password Login
-    password = ''
+    password = 'cirqueira'
     while 1:
         send(client, f'\033{gray}Password :\x1b[0;38;2;0;0;0m ', False, False)
         while not password.strip(): 
